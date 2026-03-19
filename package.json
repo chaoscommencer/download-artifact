@@ -35,7 +35,7 @@
   "dependencies": {
     "@actions/artifact": "^6.2.1",
     "@actions/core": "^3.0.0",
-    "minimatch": "^10.1.1"
+    "minimatch": "^10.2.4"
   },
   "devDependencies": {
     "@actions/github": "^9.0.0",
